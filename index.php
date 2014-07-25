@@ -9,10 +9,10 @@
     //}
 
 $url  = parse_url("http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
-$array = explode('/',$url['path'],3);
-$pagina = $array[2];
+$array = explode('/',$url['path']);
+$ultimo = count($array) - 1;
+$pagina = $array[$ultimo];
 
-echo $pagina;
 
 
 function rota($pagina) {

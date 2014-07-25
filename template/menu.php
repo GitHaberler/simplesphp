@@ -17,16 +17,16 @@
                         <a href="http://www.haberler.com.br/simplesphp">Home</a>
                     </li>
                     <li>
-                        <a href="http://www.haberler.com.br/simplesphp?page=empresa">Empresa</a>
+                        <a href="http://www.haberler.com.br/simplesphp/empresa">Empresa</a>
                     </li>
                     <li>
-                        <a href="http://www.haberler.com.br/simplesphp?page=produtos">Produtos</a>
+                        <a href="http://www.haberler.com.br/simplesphp/produtos">Produtos</a>
                     </li>
                     <li>
-                        <a href="http://www.haberler.com.br/simplesphp?page=servicos">Serviços</a>
+                        <a href="http://www.haberler.com.br/simplesphp/servicos">Serviços</a>
                     </li>
                     <li>
-                        <a href="http://www.haberler.com.br/simplesphp?page=contato">Contato</a>
+                        <a href="http://www.haberler.com.br/simplesphp/contato">Contato</a>
                     </li>
                     <!--
                     <li class="dropdown">
