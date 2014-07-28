@@ -1,4 +1,6 @@
 <?php
+    ini_set('display_errors', true);
+    error_reporting(E_ALL | E_STRICT);
     require_once "template/header.php";
     require_once "template/menu.php";
 

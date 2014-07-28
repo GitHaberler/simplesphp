@@ -1,5 +1,5 @@
 <?php
-    if(!$_POST['submit']){
+    if (!isset($_POST['submit'])){
 ?>
 
 <!-- Conteudo apenas uma coluna -->
