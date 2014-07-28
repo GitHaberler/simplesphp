@@ -10,7 +10,7 @@
             <b>E-mail   : </b><?php echo $_SESSION["email"]; ?><br>
             <b>Assunto  : </b><?php echo $_SESSION["assunto"]; ?><br>
             <b>Mensagem : </b><?php echo $_SESSION["mensagem"]; ?><br>
-            <a href = "http://www.haberler.com.br/simplesphp?page=home">Home</a>
+            <a href = "/home">Home</a>
 
     </div>
 </div>

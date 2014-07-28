@@ -14,19 +14,19 @@
                     </li>
                     -->
                     <li>
-                        <a href="http://www.haberler.com.br/simplesphp">Home</a>
+                        <a href="/home">Home</a>
                     </li>
                     <li>
-                        <a href="http://www.haberler.com.br/simplesphp/empresa">Empresa</a>
+                        <a href="/empresa">Empresa</a>
                     </li>
                     <li>
-                        <a href="http://www.haberler.com.br/simplesphp/produtos">Produtos</a>
+                        <a href="/produtos">Produtos</a>
                     </li>
                     <li>
-                        <a href="http://www.haberler.com.br/simplesphp/servicos">Serviços</a>
+                        <a href="/servicos">Serviços</a>
                     </li>
                     <li>
-                        <a href="http://www.haberler.com.br/simplesphp/contato">Contato</a>
+                        <a href="/contato">Contato</a>
                     </li>
                     <!--
                     <li class="dropdown">

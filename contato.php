@@ -5,7 +5,7 @@
 <!-- Conteudo apenas uma coluna -->
 <div class="row clearfix">
     <div class="col-md-12 column">
-            <form class="form-horizontal" action="http://www.haberler.com.br/simplesphp/contato.php" method="post">
+            <form class="form-horizontal" action="/contato.php" method="post">
             <fieldset>
                 <!-- Form Criado com BOOTSNIPP -->
                 <legend>Formulário de Contato</legend>
@@ -50,7 +50,7 @@
                     <label class="control-label" for="submit"></label>
                     <div class="controls">
                         <input class="btn btn-success" type="submit" name="submit" value="Enviar">
-                        <a class="btn btn-danger" href="http://www.haberler.com.br/simplesphp?page=home">Home</a>
+                        <a class="btn btn-danger" href="home">Home</a>
                     </div>
                 </div>
             </fieldset>
@@ -72,7 +72,7 @@
                 <b>Assunto  : </b> <?php echo $_POST['assunto'];?> <br>
                 <b>Mensagem : </b> <?php echo $_POST['mensagem'];?> <br>
             </fieldset>
-        <a href = "http://www.haberler.com.br/simplesphp?page=home">Home</a>
+        <a href = "home">Home</a>
     </div>
 </div>
 
